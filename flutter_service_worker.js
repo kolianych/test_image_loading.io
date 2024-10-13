@@ -73,7 +73,7 @@ const RESOURCES = {".git/COMMIT_EDITMSG": "a8297d555dd34879e8e48e1cf12acefa",
 "assets/AssetManifest.bin": "693635b5258fe5f1cda720cf224f158c",
 "assets/AssetManifest.bin.json": "69a99f98c8b1fb8111c5fb961769fcd8",
 "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
-"assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
+"test_image_loading.io/assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "8ac7dcfdd66d93f6786d3f6742284952",
 "assets/NOTICES": "f02a15d6b4b109662f310947a541e017",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "e986ebe42ef785b27164c36a9abc7818",
@@ -106,7 +106,7 @@ const CORE = ["main.dart.js",
 "index.html",
 "flutter_bootstrap.js",
 "assets/AssetManifest.bin.json",
-"assets/FontManifest.json"];
+"test_image_loading.io/assets/FontManifest.json"];
 
 // During install, the TEMP cache is populated with the application shell files.
 self.addEventListener("install", (event) => {
